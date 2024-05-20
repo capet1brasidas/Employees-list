@@ -1,0 +1,6 @@
+09:28:13.133 [ApplicationImpl pooled thread 52] INFO  c.b.l.BrowserStackRunExtension - 应用程序
+09:28:13.133 [ApplicationImpl pooled thread 52] INFO  com.browserstack.utils.Helpers - null
+09:30:06.935 [ApplicationImpl pooled thread 132] INFO  c.b.l.BrowserStackRunExtension - 应用程序
+09:30:06.936 [ApplicationImpl pooled thread 132] INFO  com.browserstack.utils.Helpers - null
+09:31:58.367 [ApplicationImpl pooled thread 137] INFO  c.b.l.BrowserStackRunExtension - 应用程序
+09:31:58.368 [ApplicationImpl pooled thread 137] INFO  com.browserstack.utils.Helpers - null
