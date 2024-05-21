@@ -1,10 +1,10 @@
 ## Tech Stack:
-Springboot
-Spring Data JPA
-MySql database
-HTML
-CSS
-
+Springboot  
+Spring Data JPA  
+MySql database  
+HTML   
+CSS  
+ 
 
 
 
